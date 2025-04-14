@@ -77,35 +77,36 @@
 <wire x1="0" y1="46.9" x2="0" y2="0" width="0.1524" layer="20"/>
 <wire x1="0" y1="111.2" x2="19.5" y2="111.2" width="0.1524" layer="20"/>
 <wire x1="68.6" y1="111.2" x2="92.2" y2="111.2" width="0.1524" layer="20"/>
-<wire x1="0" y1="0" x2="76.46904375" y2="0" width="0.1524" layer="20"/>
-<dimension x1="0" y1="111.2" x2="92.2" y2="111.1" x3="46.1" y3="130.1" textsize="1.778" layer="21" dtype="horizontal"/>
+<wire x1="0" y1="0" x2="76.3" y2="0" width="0.1524" layer="20"/>
+<dimension x1="0" y1="111.2" x2="92.2" y2="111.1" x3="46.1" y3="130.1" textsize="1.778" layer="47" dtype="horizontal"/>
 <wire x1="94.5" y1="0" x2="95.8" y2="0" width="0.1524" layer="20"/>
 <wire x1="95.8" y1="0" x2="170.2" y2="0" width="0.1524" layer="20"/>
 <wire x1="170.1" y1="0.1" x2="170.2" y2="0" width="0.1524" layer="20"/>
 <wire x1="92.2" y1="111.2" x2="92.2" y2="67.2" width="0.1524" layer="20"/>
 <wire x1="170.2" y1="0" x2="170.2" y2="67.2" width="0.1524" layer="20"/>
 <wire x1="170.2" y1="67.2" x2="92.2" y2="67.2" width="0.1524" layer="20"/>
-<dimension x1="92.2" y1="111.2" x2="92.2" y2="67.2" x3="117.8" y3="89.2" textsize="1.778" layer="21" dtype="vertical"/>
-<dimension x1="170.2" y1="0" x2="170.2" y2="67.2" x3="190.8" y3="33.6" textsize="1.778" layer="21" dtype="vertical"/>
-<dimension x1="0" y1="111.2" x2="24" y2="111.1" x3="12" y3="116.5" textsize="1.778" layer="21" dtype="horizontal"/>
-<dimension x1="0" y1="111.2" x2="49" y2="111.1" x3="24.5" y3="120.4" textsize="1.778" layer="21" dtype="horizontal"/>
-<dimension x1="0" y1="111.2" x2="64" y2="111.5" x3="32" y3="124.1" textsize="1.778" layer="21" dtype="horizontal"/>
-<dimension x1="0" y1="111.2" x2="0" y2="95.9" x3="-8.2" y3="103.55" textsize="1.778" layer="21" dtype="vertical"/>
+<dimension x1="92.2" y1="111.2" x2="92.2" y2="67.2" x3="117.8" y3="89.2" textsize="1.778" layer="47" dtype="vertical"/>
+<dimension x1="170.2" y1="0" x2="170.2" y2="67.2" x3="190.8" y3="33.6" textsize="1.778" layer="47" dtype="vertical"/>
+<dimension x1="0" y1="111.2" x2="24" y2="111.1" x3="12" y3="116.5" textsize="1.778" layer="47" dtype="horizontal"/>
+<dimension x1="0" y1="111.2" x2="49" y2="111.1" x3="24.5" y3="120.4" textsize="1.778" layer="47" dtype="horizontal"/>
+<dimension x1="0" y1="111.2" x2="64" y2="111.5" x3="32" y3="124.1" textsize="1.778" layer="47" dtype="horizontal"/>
+<dimension x1="0" y1="111.2" x2="0" y2="95.9" x3="-8.2" y3="103.55" textsize="1.778" layer="47" dtype="vertical"/>
 <wire x1="19.5" y1="111.2" x2="19.5" y2="110.6" width="0.1524" layer="20"/>
 <wire x1="19.5" y1="110.6" x2="46" y2="110.6" width="0.1524" layer="20"/>
 <wire x1="46" y1="110.6" x2="67.4" y2="110.6" width="0.1524" layer="20"/>
 <wire x1="67.4" y1="110.6" x2="68.6" y2="110.6" width="0.1524" layer="20"/>
 <wire x1="68.6" y1="110.6" x2="68.6" y2="111.2" width="0.1524" layer="20"/>
-<dimension x1="170.2" y1="0" x2="170.3" y2="19.3" x3="175.8" y3="9.65" textsize="1.778" layer="21" dtype="vertical"/>
-<dimension x1="170.2" y1="0" x2="170.1" y2="54.3" x3="182.8" y3="27.15" textsize="1.778" layer="21" dtype="vertical"/>
+<dimension x1="170.2" y1="0" x2="170.3" y2="19.3" x3="175.8" y3="9.65" textsize="1.778" layer="47" dtype="vertical"/>
+<dimension x1="170.2" y1="0" x2="170.1" y2="54.3" x3="182.8" y3="27.15" textsize="1.778" layer="47" dtype="vertical"/>
 <wire x1="94.5" y1="0" x2="94.5" y2="10" width="0.1524" layer="20"/>
-<dimension x1="94.5" y1="0" x2="76.3" y2="3.1" x3="85.4" y3="2.1" textsize="1.778" layer="21" dtype="horizontal"/>
-<wire x1="76.46904375" y1="0" x2="76.46904375" y2="10" width="0.1524" layer="20"/>
+<dimension x1="94.5" y1="0" x2="76.3" y2="3.1" x3="85.4" y3="2.1" textsize="1.778" layer="47" dtype="horizontal"/>
 <wire x1="76.46904375" y1="10" x2="94.5" y2="10" width="0.1524" layer="20"/>
-<dimension x1="94.5" y1="0" x2="94.5" y2="10" x3="98.4" y3="5" textsize="1.778" layer="21" dtype="vertical"/>
+<dimension x1="94.5" y1="0" x2="94.5" y2="10" x3="98.4" y3="5" textsize="1.778" layer="47" dtype="vertical"/>
 <wire x1="0" y1="64.9" x2="6.2" y2="64.9" width="0.1524" layer="20"/>
 <wire x1="6.2" y1="46.9" x2="0" y2="46.9" width="0.1524" layer="20"/>
 <wire x1="6.2" y1="64.9" x2="6.2" y2="46.9" width="0.1524" layer="20"/>
+<wire x1="76.3" y1="0" x2="76.3" y2="10" width="0.1524" layer="20"/>
+<wire x1="76.3" y1="10" x2="76.46904375" y2="10" width="0.1524" layer="20"/>
 </plain>
 <libraries>
 <library name="DeskAssistant v19 v1" urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw">
@@ -327,7 +328,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <wire x1="-0.6" y1="-1.45" x2="-0.6" y2="1.45" width="0.2" layer="21"/>
 <wire x1="-1.85" y1="1.5" x2="-0.95" y2="1.5" width="0.2" layer="21"/>
 </package>
-<package name="FH34SRJ24S05SH99" library_version="35">
+<package name="FH34SRJ24S05SH99" library_version="40">
 <description>&lt;b&gt;FH34SRJ-24S-0.5SH(99)-4&lt;/b&gt;&lt;br&gt;
 </description>
 <smd name="1" x="5.75" y="1.45" dx="0.8" dy="0.3" layer="1" rot="R90"/>
@@ -480,8 +481,8 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <text x="7.095" y="3.1" size="1.27" layer="27" align="center">&gt;VALUE</text>
 </package>
 <package name="IND_4828-WE-TPC_WRE" library_version="56">
-<smd name="1" x="-2.286" y="0" dx="0.127" dy="0.127" layer="1"/>
-<smd name="2" x="2.286" y="0" dx="0.127" dy="0.127" layer="1" rot="R180"/>
+<smd name="1" x="-2.286" y="0" dx="0.8128" dy="0.4064" layer="1"/>
+<smd name="2" x="2.286" y="0" dx="0.8128" dy="0.4064" layer="1" rot="R180"/>
 <polygon width="0.0254" layer="1" pour="solid">
 <vertex x="0.7467" y="-2.6543"/>
 <vertex x="2.7533" y="-2.6543"/>
@@ -684,8 +685,8 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <wire x1="2.5019" y1="2.5019" x2="-2.5019" y2="2.5019" width="0.1524" layer="51"/>
 <wire x1="-2.5019" y1="2.5019" x2="-2.5019" y2="-2.5019" width="0.1524" layer="51"/>
 <wire x1="0.3048" y1="2.5019" x2="-0.3048" y2="2.5019" width="0.1524" layer="51" curve="-180"/>
-<text x="-3.2712" y="-0.635" size="1.27" layer="27" ratio="6">&gt;Name</text>
-<text x="-1.7288" y="-0.635" size="1.27" layer="27" ratio="6">&gt;Value</text>
+<text x="-3.2712" y="1.905" size="1.27" layer="27" ratio="6">&gt;Name</text>
+<text x="-2.9988" y="3.175" size="1.27" layer="27" ratio="6">&gt;Value</text>
 </package>
 <package name="ESP32_WROVER_SPARKFUN-IC-POWER_SOT23-5" library_version="32">
 <description>&lt;b&gt;Small Outline Transistor&lt;/b&gt;</description>
@@ -985,8 +986,8 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <text x="-1.81" y="-1.382" size="1.27" layer="27" align="top-left">&gt;VALUE</text>
 <text x="-1.81" y="1.382" size="1.27" layer="25">&gt;NAME</text>
 <smd name="1" x="-0.985" y="0.75" dx="0.76" dy="0.27" layer="1" roundness="25"/>
-<smd name="2" x="-0.985" y="0.25" dx="0.76" dy="0.27" layer="1" roundness="25"/>
-<smd name="3" x="-0.985" y="-0.25" dx="0.76" dy="0.27" layer="1" roundness="25"/>
+<smd name="2" x="-0.985" y="0.25" dx="0.762" dy="0.381" layer="1" roundness="25"/>
+<smd name="3" x="-0.985" y="-0.25" dx="0.7112" dy="0.3556" layer="1" roundness="25"/>
 <smd name="4" x="-0.985" y="-0.75" dx="0.76" dy="0.27" layer="1" roundness="25"/>
 <smd name="5" x="0.985" y="-0.75" dx="0.76" dy="0.27" layer="1" roundness="25"/>
 <smd name="6" x="0.985" y="-0.25" dx="0.76" dy="0.27" layer="1" roundness="25"/>
@@ -1007,7 +1008,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <class number="1" name="power-lines" width="0.3" drill="0">
 </class>
 </classes>
-<designrules name="jlcpcb-2layers.dru">
+<designrules name="jlcpcb-2layers.dru *">
 <param name="mdWireWire" value="5mil"/>
 <param name="mdWirePad" value="5mil"/>
 <param name="mdWireVia" value="5mil"/>
@@ -1182,8 +1183,8 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 </pass>
 </autorouter>
 <elements>
-<element name="BOOT_BUTTON" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="MYBUTTON" value="BUTTON_CUSYOMV1" x="23.16" y="109.0328" smashed="yes" rot="R180">
-<attribute name="NAME" x="22.53" y="106.7928" size="1.27" layer="25" rot="R270"/>
+<element name="BOOT_BUTTON" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="MYBUTTON" value="BUTTON_CUSYOMV1" x="23.96" y="108.9328" smashed="yes" rot="R180">
+<attribute name="NAME" x="23.33" y="106.6928" size="1.27" layer="25" rot="R270"/>
 </element>
 <element name="C1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="ESP32_WROVER_EAGLE-LTSPICE_C0402" value="100nF" x="152.09" y="6.4" smashed="yes" rot="R90">
 <attribute name="NAME" x="151.455" y="5.765" size="1.27" layer="25" rot="R90"/>
@@ -1206,7 +1207,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <attribute name="SPICEPREFIX" value="C" x="59.87" y="103.51" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="C1_BAT2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="ESP32_WROVER_EAGLE-LTSPICE_C0402" value="4.7uF" x="118.24" y="29.54" smashed="yes" rot="R270">
-<attribute name="NAME" x="118.975" y="30.575" size="1.27" layer="25" rot="R270"/>
+<attribute name="NAME" x="116.075" y="31.075" size="1.27" layer="25" rot="R270"/>
 <attribute name="SPICEMODEL" value="NONE" x="40.77" y="-42.85" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="40.77" y="-42.85" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
@@ -1231,7 +1232,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <attribute name="SPICEPREFIX" value="C" x="22.09" y="8.21" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="C4_USB" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="ESP32_WROVER_EAGLE-LTSPICE_C0402" value="100nF" x="150.03" y="54.52" smashed="yes">
-<attribute name="NAME" x="149.395" y="55.155" size="1.27" layer="25"/>
+<attribute name="NAME" x="145.095" y="55.655" size="1.27" layer="25"/>
 <attribute name="SPICEMODEL" value="NONE" x="188.13" y="-28.03" size="1.778" layer="27" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="188.13" y="-28.03" size="1.778" layer="27" display="off"/>
 </element>
@@ -1245,10 +1246,10 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <attribute name="SPICEMODEL" value="NONE" x="238.507" y="101.41" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="238.507" y="101.41" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="C6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="ESP32_WROVER_EAGLE-LTSPICE_C0402" value="100nF" x="26.55" y="108.8" smashed="yes" rot="R270">
-<attribute name="NAME" x="25.985" y="106.735" size="1.27" layer="25" rot="R270"/>
-<attribute name="SPICEMODEL" value="NONE" x="-61.08" y="40.22" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="SPICEPREFIX" value="C" x="-61.08" y="40.22" size="1.778" layer="27" rot="R270" display="off"/>
+<element name="C6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="ESP32_WROVER_EAGLE-LTSPICE_C0402" value="100nF" x="27.35" y="108.8" smashed="yes" rot="R270">
+<attribute name="NAME" x="26.785" y="106.735" size="1.27" layer="25" rot="R270"/>
+<attribute name="SPICEMODEL" value="NONE" x="-60.28" y="40.22" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="SPICEPREFIX" value="C" x="-60.28" y="40.22" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="C7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="ESP32_WROVER_EAGLE-LTSPICE_C0402" value="10uF" x="83.35" y="33.38" smashed="yes" rot="R180">
 <attribute name="NAME" x="83.985" y="32.745" size="1.27" layer="25" rot="R180"/>
@@ -1269,7 +1270,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <attribute name="NAME" x="63.5122" y="106.9928" size="1.27" layer="25" rot="R270"/>
 </element>
 <element name="CHG_LED" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="ADAFRUIT_CHIP-LED0603" value="" x="123.27" y="41.42" smashed="yes">
-<attribute name="NAME" x="122.635" y="40.785" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="122.535" y="42.385" size="1.27" layer="25" rot="R180"/>
 <attribute name="VALUE" x="125.175" y="40.785" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="CPH3225A" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="CAPCP3225X100N" value="CPH3225A" x="95.03" y="49.71" smashed="yes" rot="R270">
@@ -1557,7 +1558,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <attribute name="MOUSER_TESTING_PART_NUMBER" value="" x="-0.4578" y="9.66" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOUSER_TESTING_PRICE-STOCK" value="" x="-0.4578" y="9.66" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="0.8922" y="98.425" size="1.27" layer="25" rot="R270" align="center"/>
-<attribute name="VALUE" x="21.3922" y="86.425" size="1.27" layer="27" rot="R270" align="center"/>
+<attribute name="VALUE" x="9.6922" y="84.725" size="1.27" layer="27" rot="R270" align="center"/>
 </element>
 <element name="L1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="IND_4828-WE-TPC_WRE" value="68uH" x="83.2" y="37.12" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2024 Ultra Librarian. All rights reserved." x="132.73" y="18.07" size="1.778" layer="27" display="off"/>
@@ -1567,11 +1568,11 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <attribute name="VALUE" x="81.4712" y="36.485" size="1.27" layer="27" ratio="6"/>
 </element>
 <element name="MCP73831" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="ESP32_WROVER_SPARKFUN-IC-POWER_SOT23-5" value="ESP32_WROVER_SPARKFUN-IC-POWER_MCP73831" x="127.51" y="40.06" smashed="yes" rot="R90">
-<attribute name="NAME" x="125.351" y="38.282" size="0.6096" layer="25" ratio="20" rot="R90"/>
+<attribute name="NAME" x="126.151" y="41.582" size="0.6096" layer="25" ratio="20" rot="R90"/>
 <attribute name="PROD_ID" value="IC-09995" x="187.2" y="111.18" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="PFMF.050.1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="ESP32C6_VARISTOR_CT/CN1812" value="ESP32C6_VARISTORCN1812" x="149.67" y="41.1976" smashed="yes" rot="R180">
-<attribute name="NAME" x="153.27" y="45.3976" size="1.27" layer="25" rot="R180"/>
+<attribute name="NAME" x="155.27" y="38.9976" size="1.27" layer="25" rot="R180"/>
 <attribute name="POPULARITY" value="0" x="114.11" y="91.9976" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="Q1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="ESP32_WROVER_SPARKFUN-DISCRETESEMI_SOT23-3" value="20V/4.2A/52mΩ/1.4W" x="130.69" y="37.03" smashed="yes">
@@ -1623,7 +1624,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <attribute name="SPICEPREFIX" value="R" x="109.13" y="-10.73" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R1_PWRUSB" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="100k" x="135.09" y="31.71" smashed="yes">
-<attribute name="NAME" x="134.455" y="32.345" size="1.27" layer="25"/>
+<attribute name="NAME" x="132.255" y="33.045" size="1.27" layer="25"/>
 <attribute name="SPICEMODEL" value="NONE" x="213.83" y="-34.33" size="1.778" layer="27" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="213.83" y="-34.33" size="1.778" layer="27" display="off"/>
 </element>
@@ -1644,7 +1645,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <attribute name="SPICEPREFIX" value="R" x="164.69" y="121.19" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="R2-USB" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="5k1" x="150.43" y="44.8" smashed="yes">
-<attribute name="NAME" x="149.795" y="45.435" size="1.27" layer="25"/>
+<attribute name="NAME" x="151.595" y="43.235" size="1.27" layer="25"/>
 <attribute name="NAME" x="149.795" y="45.435" size="1.27" layer="25"/>
 <attribute name="SPICEMODEL" value="NONE" x="188.53" y="-42.83" size="1.778" layer="27" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="188.53" y="-42.83" size="1.778" layer="27" display="off"/>
@@ -1701,13 +1702,13 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <attribute name="SPICEMODEL" value="NONE" x="-18.36" y="-35.4" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="-18.36" y="-35.4" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="RESET_BUTTON" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="MYBUTTON" value="BUTTON_CUSYOMV1" x="48.78" y="109.03" smashed="yes" rot="R180">
-<attribute name="NAME" x="47.95" y="100.59" size="1.27" layer="25" rot="R270"/>
+<element name="RESET_BUTTON" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="MYBUTTON" value="BUTTON_CUSYOMV1" x="48.98" y="109.03" smashed="yes" rot="R180">
+<attribute name="NAME" x="48.15" y="100.59" size="1.27" layer="25" rot="R270"/>
 </element>
-<element name="R_BOOT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="10k" x="19.91" y="108.72" smashed="yes" rot="R270">
-<attribute name="NAME" x="19.345" y="106.855" size="1.27" layer="25" rot="R270"/>
-<attribute name="SPICEMODEL" value="NONE" x="-62.64" y="88.4" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="SPICEPREFIX" value="R" x="-62.64" y="88.4" size="1.778" layer="27" rot="R270" display="off"/>
+<element name="R_BOOT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="10k" x="20.61" y="108.72" smashed="yes" rot="R270">
+<attribute name="NAME" x="20.045" y="106.855" size="1.27" layer="25" rot="R270"/>
+<attribute name="SPICEMODEL" value="NONE" x="-61.94" y="88.4" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="SPICEPREFIX" value="R" x="-61.94" y="88.4" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="R_CAPACITOR" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.vtsdQBo0RL6CVyHBVmTnWw" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="15" x="92.29" y="49.01" smashed="yes" rot="R270">
 <attribute name="NAME" x="80.555" y="45.725" size="1.27" layer="25"/>
@@ -1892,6 +1893,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <attribute name="PRICE" value="None" x="221.23" y="-17.73" size="1.778" layer="27" display="off"/>
 <attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=329239&amp;manufacturer=Analog Devices&amp;part_name=MAX17048G+T10&amp;search_term=None" x="221.23" y="-17.73" size="1.778" layer="27" display="off"/>
 <attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/MAX17048G+T10/Analog+Devices/view-part/?ref=snap" x="221.23" y="-17.73" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="131.79" y="39.308" size="1.27" layer="27" align="top-left"/>
 </element>
 </elements>
 <signals>
@@ -2162,10 +2164,8 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="22.5" y1="106.2" x2="22.95" y2="106.65" width="0.15" layer="16"/>
 <via x="22.95" y="106.65" extent="1-16" drill="0.35" alwaysstop="yes">
 </via>
-<wire x1="22.95" y1="106.65" x2="22.5" y2="107.1" width="0.15" layer="1"/>
-<wire x1="22.5" y1="107.1" x2="22.2" y2="107.1" width="0.15" layer="1"/>
-<wire x1="22.2" y1="107.1" x2="21.41" y2="107.89" width="0.15" layer="1"/>
-<wire x1="21.41" y1="107.89" x2="21.41" y2="108.2828" width="0.15" layer="1"/>
+<wire x1="22.95" y1="106.65" x2="22.55" y2="107.05" width="0.15" layer="1"/>
+<wire x1="22.21" y1="107.5" x2="22.21" y2="108.1828" width="0.15" layer="1"/>
 <wire x1="7.67" y1="64.66" x2="7.7" y2="64.63" width="0.15" layer="1"/>
 <wire x1="7.7" y1="64.63" x2="7.7" y2="62.5" width="0.15" layer="1"/>
 <via x="7.7" y="62.5" extent="1-16" drill="0.35" alwaysstop="yes">
@@ -2177,10 +2177,10 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 </via>
 <wire x1="11.044146875" y1="54.444146875" x2="11" y2="54.4" width="0.15" layer="1"/>
 <wire x1="12.28835" y1="54.444146875" x2="11.044146875" y2="54.444146875" width="0.15" layer="1"/>
-<wire x1="24.91" y1="108.2828" x2="23.2772" y2="106.65" width="0.15" layer="1"/>
-<wire x1="23.2772" y1="106.65" x2="22.95" y2="106.65" width="0.15" layer="1"/>
-<wire x1="24.91" y1="108.2828" x2="26.4172" y2="108.2828" width="0.15" layer="1"/>
-<wire x1="26.4172" y1="108.2828" x2="26.55" y2="108.15" width="0.15" layer="1"/>
+<wire x1="25.71" y1="108.1828" x2="24.1772" y2="106.65" width="0.15" layer="1"/>
+<wire x1="24.1772" y1="106.65" x2="22.95" y2="106.65" width="0.15" layer="1"/>
+<wire x1="27.3172" y1="108.1828" x2="25.71" y2="108.1828" width="0.15" layer="1"/>
+<wire x1="27.35" y1="108.15" x2="27.3172" y2="108.1828" width="0.15" layer="1"/>
 <wire x1="150.68" y1="54.52" x2="150.68" y2="55.58" width="0.15" layer="1"/>
 <wire x1="150.68" y1="55.58" x2="150.7" y2="55.6" width="0.15" layer="1"/>
 <via x="150.7" y="55.6" extent="1-16" drill="0.35" alwaysstop="yes">
@@ -2201,8 +2201,8 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 </via>
 <wire x1="86" y1="46.5" x2="85.9" y2="46.6" width="0.15" layer="1"/>
 <wire x1="85.9" y1="46.6" x2="85.9" y2="49.4" width="0.15" layer="1"/>
-<wire x1="47.03" y1="108.28" x2="46.5" y2="107.75" width="0.15" layer="1"/>
-<wire x1="46.5" y1="107.75" x2="46.5" y2="107.4" width="0.15" layer="1"/>
+<wire x1="47.23" y1="108.28" x2="46.5" y2="107.55" width="0.15" layer="1"/>
+<wire x1="46.5" y1="107.55" x2="46.5" y2="107.4" width="0.15" layer="1"/>
 <wire x1="46.5" y1="107.4" x2="46.6" y2="107.3" width="0.15" layer="1"/>
 <wire x1="46.6" y1="107.3" x2="47.2" y2="107.3" width="0.15" layer="1"/>
 <via x="47.2" y="107.3" extent="1-16" drill="0.35" alwaysstop="yes">
@@ -2210,8 +2210,8 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="47.2" y1="107.3" x2="49.9" y2="107.3" width="0.15" layer="16"/>
 <via x="49.9" y="107.3" extent="1-16" drill="0.35" alwaysstop="yes">
 </via>
-<wire x1="49.9" y1="107.3" x2="50.53" y2="107.93" width="0.15" layer="1"/>
-<wire x1="50.53" y1="107.93" x2="50.53" y2="108.28" width="0.15" layer="1"/>
+<wire x1="49.9" y1="107.3" x2="50.73" y2="108.13" width="0.15" layer="1"/>
+<wire x1="50.73" y1="108.13" x2="50.73" y2="108.28" width="0.15" layer="1"/>
 <wire x1="151.112" y1="9.47" x2="150.742" y2="9.1" width="0.15" layer="1"/>
 <wire x1="150.742" y1="9.1" x2="150.1" y2="9.1" width="0.15" layer="1"/>
 <via x="150.1" y="9.1" extent="1-16" drill="0.35" alwaysstop="yes">
@@ -2224,11 +2224,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 </via>
 <wire x1="151.5" y1="8.1" x2="152.09" y2="7.51" width="0.15" layer="1"/>
 <wire x1="152.09" y1="7.51" x2="152.09" y2="7.05" width="0.15" layer="1"/>
-<wire x1="132.615" y1="39.94" x2="132.778" y2="40.103" width="0.15" layer="1"/>
-<wire x1="132.778" y1="40.103" x2="133.0589" y2="40.103" width="0.15" layer="1"/>
-<wire x1="133.0589" y1="40.103" x2="133.17795" y2="40.22205" width="0.15" layer="1"/>
 <wire x1="133.355" y1="40.445" x2="133.6" y2="40.69" width="0.15" layer="1"/>
-<wire x1="133.17795" y1="40.22205" x2="133.355" y2="40.3991" width="0.15" layer="1"/>
 <wire x1="133.355" y1="40.3991" x2="133.355" y2="40.445" width="0.15" layer="1"/>
 <wire x1="83.02" y1="14.96" x2="83.02" y2="14.18" width="0.15" layer="1"/>
 <wire x1="83.02" y1="14.18" x2="83.4" y2="13.8" width="0.15" layer="1"/>
@@ -2244,6 +2240,12 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="14.05" y1="99.75" x2="14.05" y2="99.5" width="0.15" layer="1"/>
 <wire x1="97.8" y1="50.81" x2="98.3" y2="50.31" width="0.15" layer="1"/>
 <wire x1="98.3" y1="50.31" x2="98.3" y2="50.2" width="0.15" layer="1"/>
+<wire x1="22.55" y1="107.05" x2="22.21" y2="107.39" width="0.15" layer="1"/>
+<wire x1="22.21" y1="107.39" x2="22.21" y2="107.5" width="0.15" layer="1"/>
+<wire x1="132.615" y1="39.94" x2="132.855" y2="39.7" width="0.15" layer="1"/>
+<wire x1="132.855" y1="39.7" x2="133.1" y2="39.7" width="0.15" layer="1"/>
+<wire x1="133.1" y1="39.7" x2="133.355" y2="39.955" width="0.15" layer="1"/>
+<wire x1="133.355" y1="39.955" x2="133.355" y2="40.3991" width="0.15" layer="1"/>
 </signal>
 <signal name="N$1">
 <contactref element="J2" pad="B5"/>
@@ -2521,14 +2523,14 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="44.5" y1="28" x2="45" y2="28" width="0.15" layer="1"/>
 <wire x1="84.5" y1="15" x2="84.52" y2="14.96" width="0.15" layer="1"/>
 <wire x1="44.5" y1="28" x2="44.11" y2="28.13" width="0.15" layer="1"/>
-<wire x1="45.5" y1="54.5" x2="39.5" y2="54.5" width="0.15" layer="1"/>
-<wire x1="45.5" y1="41.5" x2="45.5" y2="54.5" width="0.15" layer="1"/>
+<wire x1="45.2" y1="54.5" x2="39.5" y2="54.5" width="0.15" layer="1"/>
+<wire x1="45.5" y1="53.9" x2="45.5" y2="41.5" width="0.15" layer="1"/>
 <wire x1="44.5" y1="31.5" x2="45" y2="32" width="0.15" layer="1"/>
 <wire x1="39.5" y1="54.5" x2="39.515" y2="54.525" width="0.15" layer="1"/>
 <wire x1="44.5" y1="31.5" x2="44.15" y2="31.69" width="0.15" layer="1"/>
 <wire x1="15.5" y1="45.5" x2="15.5" y2="47" width="0.15" layer="1"/>
 <wire x1="19.5" y1="41.5" x2="15.5" y2="45.5" width="0.15" layer="1"/>
-<wire x1="45.5" y1="41.5" x2="19.5" y2="41.5" width="0.15" layer="1"/>
+<wire x1="45" y1="41.5" x2="19.5" y2="41.5" width="0.15" layer="1"/>
 <wire x1="15.5" y1="47" x2="15.29" y2="47.16" width="0.15" layer="1"/>
 <wire x1="7" y1="89.5" x2="6" y2="89.5" width="0.15" layer="1"/>
 <wire x1="7" y1="88.5" x2="7" y2="89.5" width="0.15" layer="16"/>
@@ -2549,11 +2551,16 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 </via>
 <wire x1="45.6532" y1="33.387725" x2="45.5" y2="33.540925" width="0.15" layer="1"/>
 <wire x1="45.5" y1="33.540925" x2="45.5" y2="35.9" width="0.15" layer="1"/>
-<wire x1="45.5" y1="35.9" x2="45.5" y2="41.5" width="0.15" layer="1"/>
+<wire x1="45.5" y1="35.9" x2="45.5" y2="40.8" width="0.15" layer="1"/>
+<wire x1="45.5" y1="40.8" x2="45.5" y2="41.5" width="0.15" layer="1"/>
 <wire x1="45" y1="32" x2="45.6532" y2="32.6532" width="0.15" layer="1"/>
 <wire x1="45.6532" y1="32.6532" x2="45.6532" y2="33.387725" width="0.15" layer="1"/>
 <wire x1="41.367" y1="37.46" x2="43.94" y2="37.46" width="0.15" layer="1"/>
 <wire x1="43.94" y1="37.46" x2="45.5" y2="35.9" width="0.15" layer="1"/>
+<wire x1="45.2" y1="54.5" x2="45.5" y2="54.2" width="0.1524" layer="1"/>
+<wire x1="45.5" y1="54.2" x2="45.5" y2="53.9" width="0.1524" layer="1"/>
+<wire x1="45" y1="41.5" x2="45.5" y2="41" width="0.1524" layer="1"/>
+<wire x1="45.5" y1="41" x2="45.5" y2="40.8" width="0.1524" layer="1"/>
 </signal>
 <signal name="SCK">
 <contactref element="J4" pad="P5"/>
@@ -2580,8 +2587,8 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="48.5" y1="28" x2="48.09" y2="28.13" width="0.15" layer="1"/>
 <wire x1="14" y1="46.5" x2="14" y2="47" width="0.15" layer="1"/>
 <wire x1="34.5" y1="26" x2="14" y2="46.5" width="0.15" layer="1"/>
-<wire x1="49" y1="26" x2="34.5" y2="26" width="0.15" layer="1"/>
-<wire x1="49" y1="27.5" x2="49" y2="26" width="0.15" layer="1"/>
+<wire x1="48.7" y1="26" x2="34.5" y2="26" width="0.15" layer="1"/>
+<wire x1="49" y1="26.7" x2="49" y2="27.5" width="0.15" layer="1"/>
 <wire x1="14" y1="47" x2="14.02" y2="47.16" width="0.15" layer="1"/>
 <wire x1="7" y1="83.5" x2="7.5" y2="84" width="0.15" layer="1"/>
 <wire x1="7" y1="62" x2="7" y2="83.5" width="0.15" layer="1"/>
@@ -2609,6 +2616,8 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="19.2082625" y1="84" x2="7.5" y2="84" width="0.15" layer="1"/>
 <wire x1="15.7" y1="59" x2="16" y2="58.7" width="0.15" layer="1"/>
 <wire x1="4.5" y1="91.3" x2="4.7" y2="91.5" width="0.15" layer="1"/>
+<wire x1="48.7" y1="26" x2="49" y2="26.3" width="0.1524" layer="1"/>
+<wire x1="49" y1="26.3" x2="49" y2="26.7" width="0.1524" layer="1"/>
 </signal>
 <signal name="MISO">
 <contactref element="J4" pad="P7"/>
@@ -2697,15 +2706,16 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="39.5" y1="57" x2="39.515" y2="57.065" width="0.3" layer="1"/>
 <wire x1="39.5" y1="58.5" x2="39.515" y2="58.335" width="0.3" layer="1"/>
 <wire x1="30.5" y1="54.5" x2="30.5" y2="53" width="0.3" layer="1"/>
-<wire x1="30.5" y1="53" x2="30.5" y2="50" width="0.3" layer="1"/>
+<wire x1="30.5" y1="53" x2="30.5" y2="52.3" width="0.3" layer="1"/>
+<wire x1="30.5" y1="52.3" x2="30.5" y2="50" width="0.3" layer="1"/>
 <wire x1="31.5" y1="55.5" x2="30.5" y2="54.5" width="0.3" layer="1"/>
 <wire x1="31.5" y1="56" x2="31.5" y2="55.5" width="0.3" layer="1"/>
 <wire x1="30.5" y1="50" x2="30.57" y2="49.93" width="0.3" layer="1"/>
 <wire x1="31.5" y1="56" x2="31.725" y2="55.795" width="0.3" layer="1"/>
-<wire x1="38" y1="57" x2="39.5" y2="57" width="0.3" layer="1"/>
-<wire x1="38" y1="54" x2="38" y2="57" width="0.3" layer="1"/>
+<wire x1="38.6" y1="57" x2="39.5" y2="57" width="0.3" layer="1"/>
+<wire x1="38" y1="54" x2="38" y2="56.3" width="0.3" layer="1"/>
 <wire x1="37" y1="53" x2="38" y2="54" width="0.3" layer="1"/>
-<wire x1="30.5" y1="53" x2="37" y2="53" width="0.3" layer="1"/>
+<wire x1="31.6" y1="53" x2="37" y2="53" width="0.3" layer="1"/>
 <wire x1="39.5" y1="57" x2="39.515" y2="57.065" width="0.3" layer="1"/>
 <wire x1="44" y1="27" x2="38" y2="27" width="0.3" layer="1"/>
 <wire x1="38" y1="27" x2="37.93" y2="26.83" width="0.3" layer="1"/>
@@ -2779,14 +2789,12 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="9" y1="100.5" x2="7.5" y2="100.5" width="0.3" layer="1"/>
 <wire x1="7.5" y1="100.5" x2="7.513" y2="100.25" width="0.3" layer="1"/>
 <wire x1="9" y1="100.5" x2="9.09" y2="100.23" width="0.3" layer="1"/>
-<wire x1="20" y1="107.5" x2="20" y2="108" width="0.3" layer="1"/>
-<wire x1="22.3" y1="105.2" x2="20" y2="107.5" width="0.3" layer="1"/>
+<wire x1="22.3" y1="105.2" x2="20.6" y2="106.9" width="0.3" layer="1"/>
 <wire x1="44.4" y1="106.1" x2="44.9" y2="106.1" width="0.3" layer="1"/>
 <wire x1="44.4" y1="106.1" x2="43.4" y2="106.1" width="0.3" layer="1"/>
 <wire x1="43.4" y1="106.1" x2="24.3" y2="106.1" width="0.3" layer="1"/>
-<wire x1="23.25" y1="105.05" x2="24.3" y2="106.1" width="0.3" layer="1"/>
+<wire x1="24.3" y1="106.1" x2="23.25" y2="105.05" width="0.3" layer="1"/>
 <wire x1="45.5" y1="108" x2="45.5" y2="107" width="0.3" layer="1"/>
-<wire x1="20" y1="108" x2="19.91" y2="108.07" width="0.3" layer="1"/>
 <wire x1="45.5" y1="108" x2="45.46" y2="108.11" width="0.3" layer="1"/>
 <wire x1="47" y1="105" x2="46" y2="105" width="0.3" layer="1"/>
 <wire x1="47" y1="105" x2="47" y2="105.24" width="0.3" layer="1"/>
@@ -2795,9 +2803,9 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="9.5" y1="100.5" x2="11" y2="100.5" width="0.3" layer="1"/>
 <wire x1="18.5" y1="108" x2="11" y2="100.5" width="0.3" layer="16"/>
 <wire x1="19" y1="108" x2="18.5" y2="108" width="0.3" layer="16"/>
-<wire x1="19.5" y1="108" x2="19" y2="108" width="0.3" layer="1"/>
+<wire x1="20.2" y1="108" x2="19" y2="108" width="0.3" layer="1"/>
 <wire x1="9.09" y1="100.23" x2="9.5" y2="100.5" width="0.3" layer="1"/>
-<wire x1="19.91" y1="108.07" x2="19.5" y2="108" width="0.3" layer="1"/>
+<wire x1="20.61" y1="108.07" x2="20.2" y2="108" width="0.3" layer="1"/>
 <wire x1="7" y1="90.5" x2="6" y2="90.5" width="0.3" layer="1"/>
 <wire x1="7" y1="91.5" x2="7" y2="90.5" width="0.3" layer="1"/>
 <wire x1="7" y1="96.5" x2="7" y2="91.5" width="0.3" layer="16"/>
@@ -2848,8 +2856,8 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="20.65" y1="41.35" x2="20.85" y2="41.15" width="0.3" layer="16"/>
 <wire x1="20.85" y1="41.15" x2="20.9" y2="41.1" width="0.3" layer="16"/>
 <wire x1="20.85" y1="41.85" x2="20.85" y2="41.15" width="0.3" layer="16"/>
-<wire x1="22.3" y1="105.2" x2="22.45" y2="105.05" width="0.3" layer="1"/>
-<wire x1="22.45" y1="105.05" x2="23.25" y2="105.05" width="0.3" layer="1"/>
+<wire x1="22.45" y1="105.05" x2="22.3" y2="105.2" width="0.3" layer="1"/>
+<wire x1="23.25" y1="105.05" x2="22.45" y2="105.05" width="0.3" layer="1"/>
 <wire x1="45.4" y1="104.4" x2="46" y2="105" width="0.3" layer="1"/>
 <wire x1="45.4" y1="104.4" x2="45.4" y2="103.5" width="0.3" layer="1"/>
 <wire x1="45.4" y1="103.5" x2="45.9" y2="103" width="0.3" layer="1"/>
@@ -2878,6 +2886,12 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="45.1" y1="106.3" x2="45.5" y2="106.7" width="0.3" layer="1"/>
 <wire x1="45.5" y1="106.7" x2="45.5" y2="106.8" width="0.3" layer="1"/>
 <wire x1="72.6" y1="32.5" x2="73" y2="32.9" width="0.3" layer="1"/>
+<wire x1="20.6" y1="106.9" x2="20.6" y2="108.06" width="0.3" layer="1"/>
+<wire x1="20.6" y1="108.06" x2="20.61" y2="108.07" width="0.3" layer="1"/>
+<wire x1="30.5" y1="52.3" x2="31.2" y2="53" width="0.3" layer="1"/>
+<wire x1="31.2" y1="53" x2="31.6" y2="53" width="0.3" layer="1"/>
+<wire x1="38" y1="56.3" x2="38" y2="56.4" width="0.3" layer="1"/>
+<wire x1="38" y1="56.4" x2="38.6" y2="57" width="0.3" layer="1"/>
 </signal>
 <signal name="EPD_CS">
 <contactref element="U2" pad="11"/>
@@ -2920,16 +2934,19 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="32" y1="48.5" x2="31" y2="48.5" width="0.15" layer="1"/>
 <wire x1="31" y1="48.5" x2="30.57" y2="48.63" width="0.15" layer="1"/>
 <wire x1="32" y1="48.5" x2="32.29" y2="48.49" width="0.15" layer="1"/>
-<wire x1="29" y1="58.5" x2="31.5" y2="58.5" width="0.15" layer="1"/>
-<wire x1="29" y1="55.5" x2="29" y2="58.5" width="0.15" layer="1"/>
+<wire x1="29.9" y1="58.5" x2="31.5" y2="58.5" width="0.15" layer="1"/>
+<wire x1="29" y1="55.5" x2="29" y2="57.8" width="0.15" layer="1"/>
 <wire x1="21.5" y1="48" x2="25.5" y2="52" width="0.15" layer="1"/>
 <wire x1="25.5" y1="52" x2="29" y2="55.5" width="0.15" layer="1"/>
 <wire x1="21.5" y1="47.5" x2="21.5" y2="48" width="0.15" layer="1"/>
 <wire x1="31.5" y1="58.5" x2="31.725" y2="58.335" width="0.15" layer="1"/>
 <wire x1="21.5" y1="47.5" x2="21.64" y2="47.16" width="0.15" layer="1"/>
-<wire x1="25.5" y1="48.5" x2="30.5" y2="48.5" width="0.15" layer="1"/>
-<wire x1="25.5" y1="52" x2="25.5" y2="48.5" width="0.15" layer="1"/>
+<wire x1="25.9" y1="48.5" x2="30.5" y2="48.5" width="0.15" layer="1"/>
+<wire x1="25.5" y1="52" x2="25.5" y2="48.9" width="0.15" layer="1"/>
 <wire x1="30.5" y1="48.5" x2="30.57" y2="48.63" width="0.15" layer="1"/>
+<wire x1="25.9" y1="48.5" x2="25.5" y2="48.9" width="0.1524" layer="1"/>
+<wire x1="29" y1="57.8" x2="29.7" y2="58.5" width="0.15" layer="1"/>
+<wire x1="29.7" y1="58.5" x2="29.9" y2="58.5" width="0.15" layer="1"/>
 </signal>
 <signal name="IO/CHANGE">
 <contactref element="U2" pad="23"/>
@@ -3177,8 +3194,8 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="70.5" y1="33.5" x2="86.5" y2="17.5" width="0.15" layer="16"/>
 <wire x1="43" y1="61" x2="49.85" y2="54.15" width="0.15" layer="1"/>
 <wire x1="49.85" y1="54.15" x2="70.5" y2="33.5" width="0.15" layer="1"/>
-<wire x1="16.5" y1="61" x2="43" y2="61" width="0.15" layer="1"/>
-<wire x1="16.5" y1="64.5" x2="16.5" y2="61" width="0.15" layer="1"/>
+<wire x1="17.8" y1="61" x2="43" y2="61" width="0.15" layer="1"/>
+<wire x1="16.5" y1="64.5" x2="16.5" y2="61.8" width="0.15" layer="1"/>
 <wire x1="86.5" y1="15" x2="86.52" y2="14.96" width="0.15" layer="1"/>
 <wire x1="16.5" y1="64.5" x2="16.56" y2="64.66" width="0.15" layer="1"/>
 <via x="86.5" y="17.5" extent="1-16" drill="0.3">
@@ -3187,14 +3204,18 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 </via>
 <wire x1="54.47" y1="55.38" x2="53.24" y2="54.15" width="0.15" layer="1"/>
 <wire x1="53.24" y1="54.15" x2="49.85" y2="54.15" width="0.15" layer="1"/>
+<wire x1="16.5" y1="61.8" x2="17.3" y2="61" width="0.15" layer="1"/>
+<wire x1="17.3" y1="61" x2="17.8" y2="61" width="0.15" layer="1"/>
 </signal>
 <signal name="GPIO8">
 <contactref element="U2" pad="10"/>
 <contactref element="R1" pad="2"/>
-<wire x1="19" y1="44" x2="20" y2="44" width="0.15" layer="1"/>
-<wire x1="19" y1="47" x2="19" y2="44" width="0.15" layer="1"/>
+<wire x1="19.2" y1="44" x2="20" y2="44" width="0.15" layer="1"/>
+<wire x1="19" y1="44.4" x2="19" y2="47" width="0.15" layer="1"/>
 <wire x1="20" y1="44" x2="20.03" y2="43.93" width="0.15" layer="1"/>
 <wire x1="19" y1="47" x2="19.1" y2="47.16" width="0.15" layer="1"/>
+<wire x1="19.2" y1="44" x2="19" y2="44.2" width="0.15" layer="1"/>
+<wire x1="19" y1="44.2" x2="19" y2="44.4" width="0.15" layer="1"/>
 </signal>
 <signal name="RESET">
 <contactref element="U2" pad="3"/>
@@ -3203,19 +3224,19 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <contactref element="RESET_BUTTON" pad="3"/>
 <contactref element="RESET_BUTTON" pad="4"/>
 <contactref element="IC1" pad="1"/>
-<wire x1="52" y1="109.5" x2="51" y2="109.5" width="0.15" layer="1"/>
+<wire x1="52" y1="109.5" x2="51.2" y2="109.5" width="0.15" layer="1"/>
 <wire x1="52.18" y1="109.44" x2="52" y2="109.5" width="0.15" layer="1"/>
-<wire x1="51" y1="109.5" x2="50.53" y2="109.78" width="0.15" layer="1"/>
+<wire x1="51.2" y1="109.5" x2="50.73" y2="109.78" width="0.15" layer="1"/>
 <wire x1="48.3" y1="106" x2="48" y2="106" width="0.15" layer="1"/>
 <wire x1="48" y1="106" x2="47" y2="106" width="0.15" layer="1"/>
 <wire x1="48.5" y1="106.3" x2="48.5" y2="109" width="0.15" layer="1"/>
-<wire x1="48" y1="109.5" x2="47.5" y2="110" width="0.15" layer="1"/>
+<wire x1="48" y1="109.5" x2="47.56376875" y2="109.93623125" width="0.15" layer="1"/>
 <wire x1="48" y1="109.5" x2="48.5" y2="109" width="0.15" layer="1"/>
 <wire x1="47" y1="106" x2="47" y2="106.19" width="0.15" layer="1"/>
-<wire x1="47.5" y1="110" x2="47.03" y2="109.78" width="0.15" layer="1"/>
-<wire x1="47" y1="109.5" x2="45.5" y2="109.5" width="0.15" layer="1"/>
+<wire x1="47.56376875" y1="109.93623125" x2="47.23" y2="109.78" width="0.15" layer="1"/>
+<wire x1="47.2" y1="109.5" x2="45.5" y2="109.5" width="0.15" layer="1"/>
 <wire x1="45.5" y1="109.5" x2="45.46" y2="109.41" width="0.15" layer="1"/>
-<wire x1="47" y1="109.5" x2="47.03" y2="109.78" width="0.15" layer="1"/>
+<wire x1="47.23" y1="109.78" x2="47.2" y2="109.5" width="0.15" layer="1"/>
 <wire x1="10.5" y1="55.5" x2="10.5" y2="47.5" width="0.15" layer="1"/>
 <wire x1="13.5" y1="58.5" x2="10.5" y2="55.5" width="0.15" layer="1"/>
 <wire x1="14.5" y1="58.5" x2="13.5" y2="58.5" width="0.15" layer="1"/>
@@ -3223,8 +3244,8 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="48" y1="105.5" x2="14.5" y2="72" width="0.15" layer="16"/>
 <wire x1="48" y1="106" x2="48" y2="105.5" width="0.15" layer="1"/>
 <wire x1="10.5" y1="47.5" x2="10.21" y2="47.16" width="0.15" layer="1"/>
-<wire x1="48" y1="109.5" x2="50.5" y2="109.5" width="0.15" layer="1"/>
-<wire x1="50.5" y1="109.5" x2="50.53" y2="109.78" width="0.15" layer="1"/>
+<wire x1="50.7" y1="109.5" x2="48" y2="109.5" width="0.15" layer="1"/>
+<wire x1="50.73" y1="109.78" x2="50.7" y2="109.5" width="0.15" layer="1"/>
 <via x="14.5" y="58.5" extent="1-16" drill="0.3">
 </via>
 <via x="48" y="105.5" extent="1-16" drill="0.3">
@@ -3335,21 +3356,22 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <contactref element="C6" pad="1"/>
 <contactref element="BOOT_BUTTON" pad="3"/>
 <contactref element="BOOT_BUTTON" pad="4"/>
-<wire x1="25" y1="109.5" x2="26.5" y2="109.5" width="0.15" layer="1"/>
-<wire x1="26.5" y1="109.5" x2="26.55" y2="109.45" width="0.15" layer="1"/>
-<wire x1="25" y1="109.5" x2="24.91" y2="109.7828" width="0.15" layer="1"/>
-<wire x1="21" y1="109.5" x2="20" y2="109.5" width="0.15" layer="1"/>
-<wire x1="20" y1="109.5" x2="19.91" y2="109.37" width="0.15" layer="1"/>
-<wire x1="21" y1="109.5" x2="21.41" y2="109.7828" width="0.15" layer="1"/>
+<wire x1="27.3" y1="109.5" x2="25.768175" y2="109.5" width="0.15" layer="1"/>
+<wire x1="27.35" y1="109.45" x2="27.3" y2="109.5" width="0.15" layer="1"/>
+<wire x1="25.768175" y1="109.5" x2="25.71" y2="109.6828" width="0.15" layer="1"/>
+<wire x1="21.944978125" y1="109.5" x2="20.7" y2="109.5" width="0.15" layer="1"/>
+<wire x1="20.7" y1="109.5" x2="20.61" y2="109.37" width="0.15" layer="1"/>
+<wire x1="22.21" y1="109.6828" x2="21.944978125" y2="109.5" width="0.15" layer="1"/>
 <wire x1="24" y1="102" x2="24" y2="65" width="0.15" layer="1"/>
 <wire x1="18.5" y1="107.5" x2="24" y2="102" width="0.15" layer="1"/>
 <wire x1="18.5" y1="108.5" x2="18.5" y2="107.5" width="0.15" layer="1"/>
-<wire x1="19.5" y1="109.5" x2="18.5" y2="108.5" width="0.15" layer="1"/>
+<wire x1="19.66851875" y1="109.668521875" x2="18.5" y2="108.5" width="0.15" layer="1"/>
 <wire x1="24" y1="65" x2="24.18" y2="64.66" width="0.15" layer="1"/>
-<wire x1="19.91" y1="109.37" x2="19.5" y2="109.5" width="0.15" layer="1"/>
-<wire x1="21.5" y1="109.5" x2="24.5" y2="109.5" width="0.15" layer="1"/>
-<wire x1="24.5" y1="109.5" x2="24.91" y2="109.7828" width="0.15" layer="1"/>
-<wire x1="21.5" y1="109.5" x2="21.41" y2="109.7828" width="0.15" layer="1"/>
+<wire x1="20.61" y1="109.37" x2="19.66851875" y2="109.668521875" width="0.15" layer="1"/>
+<wire x1="22.268175" y1="109.5" x2="24.5" y2="109.5" width="0.15" layer="1"/>
+<wire x1="25.71" y1="109.6828" x2="25.444978125" y2="109.5" width="0.15" layer="1"/>
+<wire x1="22.268175" y1="109.5" x2="22.21" y2="109.6828" width="0.15" layer="1"/>
+<wire x1="24.5" y1="109.5" x2="25.444978125" y2="109.5" width="0.15" layer="1"/>
 </signal>
 <signal name="VBAT" class="1">
 <contactref element="U4" pad="2"/>
@@ -3377,8 +3399,8 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="131.6" y1="39.3" x2="133.14" y2="39.3" width="0.3" layer="1"/>
 <wire x1="133.14" y1="39.3" x2="135.98" y2="36.46" width="0.3" layer="1"/>
 <wire x1="130.5" y1="41" x2="131" y2="40.5" width="0.3" layer="1"/>
-<wire x1="131.6" y1="39.3" x2="131.4" y2="39.3" width="0.3" layer="1"/>
-<wire x1="131.4" y1="39.3" x2="131" y2="39.7" width="0.3" layer="1"/>
+<wire x1="131.4" y1="39.3" x2="131.6" y2="39.3" width="0.3" layer="1"/>
+<wire x1="131" y1="39.7" x2="131.4" y2="39.3" width="0.3" layer="1"/>
 </signal>
 <signal name="EPD_3V3" class="1">
 <contactref element="TP17" pad="TP"/>
@@ -3412,8 +3434,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="87.4" y1="34.8" x2="87.4" y2="36.3" width="0.3" layer="1"/>
 <wire x1="87.4" y1="36.3" x2="86.58" y2="37.12" width="0.3" layer="1"/>
 <wire x1="86.58" y1="37.12" x2="85.486" y2="37.12" width="0.3" layer="1"/>
-<wire x1="85.98" y1="33.38" x2="87.6" y2="31.76" width="0.3" layer="1"/>
-<wire x1="87.6" y1="31.76" x2="97.87" y2="31.76" width="0.3" layer="1"/>
+<wire x1="87.8" y1="31.76" x2="97.87" y2="31.76" width="0.3" layer="1"/>
 <wire x1="73" y1="18" x2="73" y2="15.50219375" width="0.3" layer="1"/>
 <wire x1="73" y1="15.50219375" x2="74.50219375" y2="14" width="0.3" layer="1"/>
 <wire x1="83.18120625" y1="13.2718" x2="83.61879375" y2="13.2718" width="0.3" layer="1"/>
@@ -3423,6 +3444,11 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="83.9282" y1="14.01879375" x2="83.5" y2="14.44699375" width="0.3" layer="1"/>
 <wire x1="74.50219375" y1="14" x2="82.45300625" y2="14" width="0.3" layer="1"/>
 <wire x1="82.45300625" y1="14" x2="83.18120625" y2="13.2718" width="0.3" layer="1"/>
+<wire x1="87.8" y1="31.76" x2="87.13" y2="32.43" width="0.3" layer="1"/>
+<wire x1="87.13" y1="32.43" x2="87.13" y2="33.07" width="0.3" layer="1"/>
+<wire x1="87.13" y1="33.07" x2="87.1" y2="33.1" width="0.3" layer="1"/>
+<wire x1="87.1" y1="33.1" x2="86.82" y2="33.38" width="0.3" layer="1"/>
+<wire x1="86.82" y1="33.38" x2="85.98" y2="33.38" width="0.3" layer="1"/>
 </signal>
 <signal name="N$5">
 <contactref element="D7" pad="1"/>
@@ -3577,19 +3603,26 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="81.5" y1="42" x2="81.5" y2="42.3" width="0.15" layer="1"/>
 <wire x1="94.5" y1="39.5" x2="94.48" y2="39.31" width="0.15" layer="1"/>
 <wire x1="81.5" y1="42" x2="81.49" y2="41.65" width="0.15" layer="1"/>
-<wire x1="72.5" y1="15.5" x2="70" y2="15.5" width="0.15" layer="1"/>
-<wire x1="72.5" y1="24" x2="72.5" y2="15.5" width="0.15" layer="1"/>
+<wire x1="72.3" y1="15.5" x2="70" y2="15.5" width="0.15" layer="1"/>
+<wire x1="72.5" y1="15.8" x2="72.5" y2="24" width="0.15" layer="1"/>
 <wire x1="81" y1="32.5" x2="72.5" y2="24" width="0.15" layer="1"/>
-<wire x1="81" y1="41.5" x2="81" y2="37.3" width="0.15" layer="1"/>
-<wire x1="81" y1="37.3" x2="81" y2="32.5" width="0.15" layer="1"/>
+<wire x1="81" y1="41.5" x2="81" y2="39" width="0.15" layer="1"/>
+<wire x1="81" y1="36.1" x2="81" y2="32.5" width="0.15" layer="1"/>
 <wire x1="70" y1="15.5" x2="70.168165625" y2="15.399996875" width="0.15" layer="1"/>
 <wire x1="81" y1="41.5" x2="81.49" y2="41.65" width="0.15" layer="1"/>
-<wire x1="81" y1="37.3" x2="81" y2="37.206" width="0.15" layer="1"/>
-<wire x1="80.914" y1="37.12" x2="81" y2="37.206" width="0.15" layer="1"/>
 <wire x1="81.5" y1="42.3" x2="81.7" y2="42.5" width="0.15" layer="1"/>
 <wire x1="81.7" y1="42.5" x2="81.8" y2="42.5" width="0.15" layer="1"/>
 <wire x1="95.3" y1="39.5" x2="95.5" y2="39.7" width="0.15" layer="1"/>
 <wire x1="95.5" y1="39.7" x2="95.5" y2="40" width="0.15" layer="1"/>
+<wire x1="72.3" y1="15.5" x2="72.5" y2="15.7" width="0.15" layer="1"/>
+<wire x1="72.5" y1="15.7" x2="72.5" y2="15.8" width="0.15" layer="1"/>
+<wire x1="81" y1="36.1" x2="81.7" y2="36.8" width="0.15" layer="1"/>
+<wire x1="81.7" y1="36.8" x2="81.7" y2="37.4" width="0.15" layer="1"/>
+<wire x1="81.7" y1="37.4" x2="81.7" y2="37.8" width="0.15" layer="1"/>
+<wire x1="81.7" y1="37.8" x2="81.7" y2="38.3" width="0.15" layer="1"/>
+<wire x1="81.7" y1="38.3" x2="81" y2="39" width="0.15" layer="1"/>
+<wire x1="80.914" y1="37.12" x2="81.42" y2="37.12" width="0.15" layer="1"/>
+<wire x1="81.42" y1="37.12" x2="81.7" y2="37.4" width="0.15" layer="1"/>
 </signal>
 <signal name="N$15">
 <contactref element="C4" pad="1"/>
@@ -3697,6 +3730,10 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <mfgpreviewcolor name="coppercolor" color="0xFFFFBF00"/>
 <mfgpreviewcolor name="substratecolor" color="0xFF786E46"/>
 </mfgpreviewcolors>
+<errors>
+<approved hash="4,1,5ce0ac4bc6f0a04f"/>
+<approved hash="4,1,db567a611812e23d"/>
+</errors>
 </board>
 </drawing>
 <compatibility>
