@@ -224,3 +224,5 @@ With a 2500mAh battery, theoretical runtime estimates:
 - Deep sleep mode: ~227,272 hours (~9,469 days or ~26 years)
 
 In practical usage with mixed operation modes and periodic Wi-Fi synchronization, users can expect 2-4 weeks of regular
+
+Note: props to the Gemini within Google Drawings for helping me with the drawing:)
